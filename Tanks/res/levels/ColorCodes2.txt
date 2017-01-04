@@ -1,0 +1,59 @@
+Wood Floor:brown
+R:114
+G:71
+B:21
+hex code:0xFF724715
+
+Grass:green
+R:0
+G:255
+B:0
+hex code:0xFF00FF00
+
+Wall 1:grey
+R:128
+G:128
+B:128
+hex code:0xFF808080
+
+Wall 2: black
+R:48
+G:48
+B:48
+hex code:0xFF303030
+
+Sign:red
+R:255
+G:0
+B:0
+hex code:0xFFFF0000
+
+Frame:blue
+R:0
+G:0
+B:255
+hex code:0xFF0000FF
+
+Tanks:dark green
+R:10
+G:70
+B:0
+hex code:0xFF0A4600
+
+Castle:pink
+R:255
+G:113
+B:115
+hex code:0xFFFF7173
+
+Hills:orange
+R:255
+G:128
+B:0
+hex code:0xFFFF8000
+
+Pitholes:cyan
+R:0
+G:128
+B:128
+hex code:0xFF008080
